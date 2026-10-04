@@ -1,4 +1,4 @@
-# Urban-Cabs-Analytics-System-
+# Urban-Cabs-Analytics-System
 
 An end-to-end data engineering and analytics solution built using Databricks, PySpark, and Lakeflow Declarative Pipelines to process and analyze urban cab booking data.
 
