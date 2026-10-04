@@ -4,7 +4,7 @@ An end-to-end data engineering and analytics solution built using Databricks, Py
 
 The system ingests raw cab trip and operational data from multiple sources, performs data cleansing and transformation using PySpark, and builds reliable analytical datasets through a multi-layer data pipeline. The solution uses Lakeflow Declarative Pipelines to implement scalable and maintainable data processing workflows.
 
-Key Features - 
+### Key Features - 
 
 Ingested raw cab booking, trip, customer, driver, and operational data into the Databricks data platform.
 
@@ -24,7 +24,7 @@ Optimized transformation logic to efficiently process large volumes of cab trans
 
 Designed the pipeline to support downstream analytics and reporting requirements.
 
-Technology Stack
+### Technology Stack
 
 Databricks | PySpark | Python | Lakeflow Declarative Pipelines | SQL | Delta Lake
 
